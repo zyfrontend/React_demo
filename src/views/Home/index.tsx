@@ -5,7 +5,9 @@ const Home: React.FC = () => {
     <>
       <div className={style.home}>
         <h1>home</h1>
-        <div>111</div>
+        <h2>111</h2>
+        <h1>home</h1>
+        <h2>111</h2>
       </div>
     </>
   );
